@@ -479,6 +479,11 @@ mark,
   object-fit: cover;
 }
 
+.img-fluid-1 {
+  max-width: 100%;
+  object-fit: cover;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
