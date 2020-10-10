@@ -474,8 +474,9 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
-  height: auto;
+  width: 350px;
+  height: 300px;
+  object-fit: cover;
 }
 
 .img-thumbnail {
@@ -10180,7 +10181,7 @@ header.masthead .masthead-heading {
   }
 }
 #portfolio .portfolio-item {
-  max-width: 25rem;
+  width: 350px;
   margin-left: auto;
   margin-right: auto;
 }
